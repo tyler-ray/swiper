@@ -1,3 +1,6 @@
 node_modules
 .node_modules
 /node_modules
+dimage.js-master
+.dimage.js-master
+/dimage.js-master
